@@ -1,0 +1,15 @@
+{
+  "cSpell.language": "en,es-ES",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  "github.copilot.enable": {
+    "scminput": true
+  },
+  "editor.linkedEditing": true,
+  "editor.cursorBlinking": "blink",
+  "editor.cursorWidth": 5,
+  "editor.stickyScroll.defaultModel": "foldingProviderModel",
+  "editor.stickyScroll.maxLineCount": 1
+}
