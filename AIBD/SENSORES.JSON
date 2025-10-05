@@ -1,0 +1,38 @@
+
+"sensores":{ // ENTIDAD
+    "id": "Sensor_temp1",
+    "type": "temperatura",
+    "temp": {
+        "value": 21,
+        "type": "Float"
+    },
+    "fechaRegistro":{
+        "type": "DateTime",
+        "valor": "2025-10-02T18:00:00-05:00"
+    }
+    "magnitud": "ºC"
+    "Humedad": {
+        "value": 90,
+        "type": "Int"
+    }
+},
+{
+    "id": "Sensor_co2",
+    "type": "CO2",
+    "medida": {
+        "value": 200,
+        "type": "Float"
+    }
+},
+{
+    "id": "Sensor_calidad_agua",
+    "type": "SensorAgua",
+    "PH": {
+        "value": 3.4,
+        "type": "Float"
+    },
+    "temp": {
+        "value": 17,
+        "type": "Float"
+    }
+}
